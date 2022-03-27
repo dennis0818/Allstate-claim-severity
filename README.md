@@ -14,5 +14,5 @@
 
 ## 三、预测方法
 清洗数据    
-用XGBoost算法，调整参数组合进行预测
+用XGBoost算法，调整参数组合进行预测    
 详见：Allstate Claim Severity-1.ipynb & Allstate Claim Severity-2.ipynb
