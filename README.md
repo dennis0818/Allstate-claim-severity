@@ -8,10 +8,11 @@
 来自kaggle赛题数据集
 预测“损失”列的值
 此数据集经过脱敏处理，其中的每一行表示一个保险索赔。以“cat”开头的变量是分类变量，而以“cont”开头的变量是连续变量。
-
-训练集：train.csv
-测试集：test.csv
+    
+训练集：train.csv    
+测试集：test.csv    
 
 ## 三、预测方法
-清洗数据
+清洗数据    
 用XGBoost算法，调整参数组合进行预测
+详见：Allstate Claim Severity-1.ipynb & Allstate Claim Severity-2.ipynb
